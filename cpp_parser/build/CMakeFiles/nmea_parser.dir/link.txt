@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/nmea_parser.dir/nmea_parser.cpp.o  -o nmea_parser  -lcurl 
